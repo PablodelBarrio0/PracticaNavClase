@@ -7,7 +7,6 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.Button
-import com.example.practicanavclase.R
 import com.example.practicanavclase.databinding.FragmentBtnBombillaBinding
 
 

@@ -8,13 +8,6 @@
 
     <!-- TODO: Update blank fragment layout -->
 
-    <TextView
-        android:id="@+id/textView"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="@string/hello_blank_fragment"
-        tools:layout_editor_absoluteX="71dp"
-        tools:layout_editor_absoluteY="71dp" />
 
     <Button
         android:id="@+id/btnApagar"
@@ -26,7 +19,7 @@
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/btnEncender"
         app:layout_constraintTop_toTopOf="parent"
-        android:enable="false"/>
+        android:enabled="false"/>
 
     <Button
         android:id="@+id/btnEncender"
@@ -38,6 +31,6 @@
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        android:enable="true"/>
+        />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

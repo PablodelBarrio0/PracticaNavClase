@@ -6,9 +6,6 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import com.example.practicanavclase.R
-import com.example.practicanavclase.databinding.FragmentBtnBombillaBinding
-import com.example.practicanavclase.databinding.FragmentImgBombillaBinding
 import com.example.practicanavclase.databinding.FragmentSemaforoColorBinding
 
 // TODO: Rename parameter arguments, choose names that match
